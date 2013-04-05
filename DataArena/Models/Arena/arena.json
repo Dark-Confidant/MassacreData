@@ -1,0 +1,140 @@
+{"frames": [
+
+{
+	"filename": "_.png",
+	"frame": {"x":49,"y":16,"w":1,"h":2048},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":2048},
+	"sourceSize": {"w":1,"h":2048}
+},
+{
+	"filename": "__.png",
+	"frame": {"x":16,"y":16,"w":1,"h":2048},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":2048},
+	"sourceSize": {"w":1,"h":2048}
+},
+{
+	"filename": "border.jpg",
+	"frame": {"x":82,"y":1072,"w":512,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":512},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "columns0.jpg",
+	"frame": {"x":2128,"y":2128,"w":1024,"h":1024},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":1024},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "columns1.jpg",
+	"frame": {"x":2128,"y":1072,"w":1024,"h":1024},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":1024},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "decor0.jpg",
+	"frame": {"x":82,"y":1616,"w":512,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":256},
+	"sourceSize": {"w":512,"h":256}
+},
+{
+	"filename": "decor1.jpg",
+	"frame": {"x":560,"y":3696,"w":512,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":256},
+	"sourceSize": {"w":512,"h":256}
+},
+{
+	"filename": "floor.jpg",
+	"frame": {"x":16,"y":3152,"w":1024,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":512},
+	"sourceSize": {"w":1024,"h":512}
+},
+{
+	"filename": "gates.jpg",
+	"frame": {"x":2194,"y":16,"w":1024,"h":1024},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":1024},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "ground.jpg",
+	"frame": {"x":1072,"y":2128,"w":1024,"h":1024},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":1024},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "handrail.jpg",
+	"frame": {"x":16,"y":3696,"w":512,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":256},
+	"sourceSize": {"w":512,"h":256}
+},
+{
+	"filename": "roofs0.jpg",
+	"frame": {"x":1138,"y":16,"w":1024,"h":1024},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":1024},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "roofs1.jpg",
+	"frame": {"x":1072,"y":1072,"w":1024,"h":1024},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":1024},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "tree.jpg",
+	"frame": {"x":3250,"y":16,"w":512,"h":1024},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":1024},
+	"sourceSize": {"w":512,"h":1024}
+},
+{
+	"filename": "walls0.jpg",
+	"frame": {"x":82,"y":16,"w":1024,"h":1024},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":1024},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "walls1.jpg",
+	"frame": {"x":16,"y":2096,"w":1024,"h":1024},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":1024},
+	"sourceSize": {"w":1024,"h":1024}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "arena.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:51d2b511dea5120819d37046249e3e3f$"
+}
+}

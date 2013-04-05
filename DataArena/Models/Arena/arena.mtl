@@ -1,0 +1,6 @@
+shaders:
+  - Shaders/mvp_t0.vert
+  - Shaders/diffuse.frag
+
+textures:
+  - arena.jpg
