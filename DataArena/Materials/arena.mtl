@@ -3,7 +3,4 @@ shaders:
   - Shaders/diffuse.frag
 
 textures:
-  - trans.png
-
-cullFace: false
-alphaTest: true
+  - Textures/arena.jpg

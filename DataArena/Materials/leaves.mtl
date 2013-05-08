@@ -3,7 +3,7 @@ shaders:
   - Shaders/diffuse.frag
 
 textures:
-  - trans.png
+  - Textures/trans.png
 
 passHint: 1
 alphaTest: true
