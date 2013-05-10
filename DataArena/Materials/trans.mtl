@@ -1,0 +1,9 @@
+shaders:
+  - Shaders/lit.vert
+  - Shaders/lit.frag
+
+textures:
+  - Textures/trans.png
+
+cullFace: false
+alphaTest: true

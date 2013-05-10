@@ -1,9 +1,0 @@
-shaders:
-  - Shaders/mvp_t0.vert
-  - Shaders/diffuse.frag
-
-textures:
-  - Textures/trans.png
-
-cullFace: false
-alphaTest: true

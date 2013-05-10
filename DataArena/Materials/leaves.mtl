@@ -1,6 +1,6 @@
 shaders:
-  - Shaders/mvp_t0.vert
-  - Shaders/diffuse.frag
+  - Shaders/lit.vert
+  - Shaders/lit.frag
 
 textures:
   - Textures/trans.png

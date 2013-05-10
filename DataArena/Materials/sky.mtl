@@ -1,0 +1,9 @@
+shaders:
+  - Shaders/sky_t0.vert
+  - Shaders/unlit.frag
+
+textures:
+  - Textures/sky.png
+
+depthTest: false
+passHint: -1
