@@ -10,7 +10,7 @@ out vec4 FragColor;
 
 void main()
 {
-    float intensity = Sun.Brightness * dot(normal, Sun.Direction);
+    float intensity = Sun.Brightness * dot(normal, -Sun.Direction);
 
     FragColor = max(Sun.ShadowColor, intensity * Sun.Color)
               * texture(Texture0, texCoord0);
