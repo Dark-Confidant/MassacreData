@@ -3,4 +3,4 @@ shaders:
   - Shaders/lit.frag
 
 textures:
-  - Textures/arena.jpg
+  - Textures/arena.tex

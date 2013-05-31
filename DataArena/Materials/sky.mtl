@@ -3,7 +3,7 @@ shaders:
   - Shaders/unlit.frag
 
 textures:
-  - Textures/sky.png
+  - Textures/sky.tex
 
 depthTest: false
 passHint: -1

@@ -3,7 +3,7 @@ shaders:
   - Shaders/lit.frag
 
 textures:
-  - Textures/trans.png
+  - Textures/trans.tex
 
 cullFace: false
 alphaTest: true

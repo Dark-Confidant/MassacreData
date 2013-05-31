@@ -3,7 +3,7 @@ shaders:
   - Shaders/lit.frag
 
 textures:
-  - Textures/flag.png
+  - Textures/flag.tex
 
 cullFace: false
 alphaTest: true

@@ -3,7 +3,7 @@ shaders:
   - Shaders/lit.frag
 
 textures:
-  - Textures/trans.png
+  - Textures/trans.tex
 
 passHint: 1
 alphaTest: true
