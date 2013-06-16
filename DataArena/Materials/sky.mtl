@@ -5,5 +5,4 @@ shaders:
 textures:
   - Textures/sky.tex
 
-depthTest: false
-passHint: -1
+depthWrite: false

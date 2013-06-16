@@ -9,7 +9,7 @@ void main()
 {
     const float steps     = 5.;
     const float density   = 50.;
-    const float timeScale = .2;
+    const float timeScale = 3.;
 
     const float pi   = 3.1415926535;
     const float step = pi / steps;
@@ -23,5 +23,5 @@ void main()
     float phase = floor(mod(wave, 2.));
     wave = phase + sign(.5 - phase) * fract(wave);
 
-    FragColor = vec4(wave * vec3(.4, .2, 0.), min(wave, pow(20. * texCoord0.y, 2.)));
+    FragColor = vec4(wave * vec3(1.5, 1.5, 1.2), min(wave, pow(20. * texCoord0.y, 2.)));
 }
